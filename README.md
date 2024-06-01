@@ -25,16 +25,16 @@
 <div align="center">
   
 <img src="https://i.ibb.co/2PCtzhh/html-removebg-preview.png" width="60px" alt="html">
-<img src="https://i.ibb.co/d50b3hN/css.png" width="60px" alt="css">
-<img src="https://i.ibb.co/KWdM402/bootstrap.png" width="60px" alt="bootstrap">
-<img src="https://i.ibb.co/596XVH9/tailwind.png" width="60px" alt="tailwind">
-<img src="https://i.ibb.co/Dg67TFz/js.png" width="60px" alt="js">
-<img src="https://i.ibb.co/R3sHmX6/react.png" width="60px" alt="react">
-<img src="https://i.ibb.co/51NtTV9/redux.png" width="60px" alt="redux">
-<img src="https://i.ibb.co/23SN4Qt/next.png" width="60px" alt="next">
-<img src="https://i.ibb.co/cT27NXP/node.png" width="60px" alt="node">
-<img src="https://i.ibb.co/XtfdkJC/mongo.png" width="60px" alt="mongo">
-<img src="https://i.ibb.co/Xt9mctq/expres.png" width="60px" alt="expres">
+<img src="https://i.ibb.co/KV2BqrC/css-removebg-preview.png" width="60px" alt="css">
+<img src="https://i.ibb.co/LCYDTKk/bootstrap-removebg-preview.png" width="60px" alt="bootstrap">
+<img src="https://i.ibb.co/dmWwY3Z/tailwind-removebg-preview.png" width="60px" alt="tailwind">
+<img src="https://i.ibb.co/FBG1twJ/js-removebg-preview.png" width="60px" alt="js">
+<img src="https://i.ibb.co/f84QXW9/react-removebg-preview.png" width="60px" alt="react">
+<img src="https://i.ibb.co/Y3BNFnd/redux-removebg-preview.png" width="60px" alt="redux">
+<img src="https://i.ibb.co/9cxHYLb/next-removebg-preview.png" width="60px" alt="next">
+<img src="https://i.ibb.co/0QpvwqD/node-removebg-preview.png" width="60px" alt="node">
+<img src="https://i.ibb.co/S38w1Ft/mongo-removebg-preview.png" width="60px" alt="mongo">
+<img src="https://i.ibb.co/9cxHYLb/next-removebg-preview.png" width="60px" alt="expres">
 
 </div>
 
