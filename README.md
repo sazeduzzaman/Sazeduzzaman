@@ -24,17 +24,17 @@
 
 <div align="center">
   
-<img src="https://i.ibb.co/x1Rjwsw/html.png" height="60" width="60" alt="html">
-<img src="https://i.ibb.co/d50b3hN/css.png" height="60" width="60" alt="css">
-<img src="https://i.ibb.co/KWdM402/bootstrap.png" height="60" width="60" alt="bootstrap">
-<img src="https://i.ibb.co/596XVH9/tailwind.png" height="60" width="60" alt="tailwind">
-<img src="https://i.ibb.co/Dg67TFz/js.png" height="60" width="60" alt="js">
-<img src="https://i.ibb.co/R3sHmX6/react.png" height="60" width="60" alt="react">
-<img src="https://i.ibb.co/51NtTV9/redux.png" height="60" width="60" alt="redux">
-<img src="https://i.ibb.co/23SN4Qt/next.png" height="60" width="60" alt="next">
-<img src="https://i.ibb.co/cT27NXP/node.png" height="60" width="60" alt="node">
-<img src="https://i.ibb.co/XtfdkJC/mongo.png" height="60" width="60" alt="mongo">
-<img src="https://i.ibb.co/Xt9mctq/expres.png" height="60" width="60" alt="expres">
+<img src="https://i.ibb.co/x1Rjwsw/html.png" alt="html">
+<img src="https://i.ibb.co/d50b3hN/css.png" alt="css">
+<img src="https://i.ibb.co/KWdM402/bootstrap.png" alt="bootstrap">
+<img src="https://i.ibb.co/596XVH9/tailwind.png" alt="tailwind">
+<img src="https://i.ibb.co/Dg67TFz/js.png" alt="js">
+<img src="https://i.ibb.co/R3sHmX6/react.png" alt="react">
+<img src="https://i.ibb.co/51NtTV9/redux.png" alt="redux">
+<img src="https://i.ibb.co/23SN4Qt/next.png" alt="next">
+<img src="https://i.ibb.co/cT27NXP/node.png" alt="node">
+<img src="https://i.ibb.co/XtfdkJC/mongo.png" alt="mongo">
+<img src="https://i.ibb.co/Xt9mctq/expres.png" alt="expres">
 
 </div>
 
