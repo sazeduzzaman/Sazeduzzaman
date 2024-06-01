@@ -24,7 +24,7 @@
 
 <div align="center">
   
-<img src="https://i.ibb.co/x1Rjwsw/html.png" width="60px" alt="html">
+<img src="https://i.ibb.co/2PCtzhh/html-removebg-preview.png" width="60px" alt="html">
 <img src="https://i.ibb.co/d50b3hN/css.png" width="60px" alt="css">
 <img src="https://i.ibb.co/KWdM402/bootstrap.png" width="60px" alt="bootstrap">
 <img src="https://i.ibb.co/596XVH9/tailwind.png" width="60px" alt="tailwind">
