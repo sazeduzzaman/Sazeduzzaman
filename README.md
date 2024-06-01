@@ -24,17 +24,17 @@
 
 <div align="center">
   
-<img src="https://i.ibb.co/x1Rjwsw/html.png" alt="html">
-<img src="https://i.ibb.co/d50b3hN/css.png" alt="css">
-<img src="https://i.ibb.co/KWdM402/bootstrap.png" alt="bootstrap">
-<img src="https://i.ibb.co/596XVH9/tailwind.png" alt="tailwind">
-<img src="https://i.ibb.co/Dg67TFz/js.png" alt="js">
-<img src="https://i.ibb.co/R3sHmX6/react.png" alt="react">
-<img src="https://i.ibb.co/51NtTV9/redux.png" alt="redux">
-<img src="https://i.ibb.co/23SN4Qt/next.png" alt="next">
-<img src="https://i.ibb.co/cT27NXP/node.png" alt="node">
-<img src="https://i.ibb.co/XtfdkJC/mongo.png" alt="mongo">
-<img src="https://i.ibb.co/Xt9mctq/expres.png" alt="expres">
+<img src="https://i.ibb.co/x1Rjwsw/html.png" width="60px" alt="html">
+<img src="https://i.ibb.co/d50b3hN/css.png" width="60px" alt="css">
+<img src="https://i.ibb.co/KWdM402/bootstrap.png" width="60px" alt="bootstrap">
+<img src="https://i.ibb.co/596XVH9/tailwind.png" width="60px" alt="tailwind">
+<img src="https://i.ibb.co/Dg67TFz/js.png" width="60px" alt="js">
+<img src="https://i.ibb.co/R3sHmX6/react.png" width="60px" alt="react">
+<img src="https://i.ibb.co/51NtTV9/redux.png" width="60px" alt="redux">
+<img src="https://i.ibb.co/23SN4Qt/next.png" width="60px" alt="next">
+<img src="https://i.ibb.co/cT27NXP/node.png" width="60px" alt="node">
+<img src="https://i.ibb.co/XtfdkJC/mongo.png" width="60px" alt="mongo">
+<img src="https://i.ibb.co/Xt9mctq/expres.png" width="60px" alt="expres">
 
 </div>
 
