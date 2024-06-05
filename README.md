@@ -15,7 +15,7 @@
 
 <img align="right" width="40%" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 
-- 🌱 I’m currently learning **Next JS** and **ADVANCE REDUX**
+- 🌱 I’m currently learning **Next JS** and **REDUX**
 - 👯 I’m looking to collaborate on **Frontend projects** and **MERN Stack Project**
 - 📀 Never let your brain stop, always keep it running
   <br />
@@ -34,7 +34,6 @@
 <img src="https://i.ibb.co/9cxHYLb/next-removebg-preview.png" width="60px" alt="next">
 <img src="https://i.ibb.co/0QpvwqD/node-removebg-preview.png" width="60px" alt="node">
 <img src="https://i.ibb.co/S38w1Ft/mongo-removebg-preview.png" width="60px" alt="mongo">
-<img src="https://i.ibb.co/9cxHYLb/next-removebg-preview.png" width="60px" alt="expres">
 
 </div>
 
@@ -57,5 +56,6 @@
 
 | Top Contributed Repo | Random Dev Meme |
 | --- | --- |
-| ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Sazeduzzam-Saju&limit=5&theme=dark&combine_all_yearly_contributions=true) | <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> |
+| ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Sazeduzzam-Saju&limit=5&theme=dark&combine_all_yearly_contributions=true) | 
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> |
 
