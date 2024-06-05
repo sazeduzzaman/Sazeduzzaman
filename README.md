@@ -41,11 +41,13 @@
 
 | Github Stats | Streak |
 | --- | --- |
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sazeduzzam-Saju&show_icons=true&theme=dark&hide_border=false) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sazeduzzam-Saju&show_icons=true&theme=dark&hide_border=false) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sazeduzzam-Saju&show_icons=true&theme=radical) | 
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sazeduzzam-Saju&show_icons=true&theme=dark&hide_border=false) |
 
 | Top Languages | Trophy |
 | --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sazeduzzam-Saju&theme=dark&layout=compact) | ![Trophy](https://github-profile-trophy.vercel.app/?username=Sazeduzzam-Saju&theme=radical&no-frame=false&no-bg=false&margin-w=4) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sazeduzzam-Saju&theme=dark&layout=compact) | 
+| ![Trophy](https://github-profile-trophy.vercel.app/?username=Sazeduzzam-Saju&theme=radical&no-frame=false&no-bg=false&margin-w=4) |
 
 <div align="center">
   <a href="https://www.linkedin.com/in/szamansaju/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
