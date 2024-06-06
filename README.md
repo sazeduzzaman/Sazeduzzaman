@@ -36,6 +36,8 @@
 <img src="https://i.ibb.co/S38w1Ft/mongo-removebg-preview.png" width="60px" alt="mongo">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60px" alt="mongo">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60px" alt="mongo">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60px" alt="mongo">
+
 
 
 
