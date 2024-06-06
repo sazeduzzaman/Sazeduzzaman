@@ -45,11 +45,11 @@
 
 | Github Stats | Streak |
 | --- | --- |
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&show_icons=true&theme=dark&hide_border=false) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Najmul-Hasan-Sobuj&show_icons=true&theme=dark&hide_border=false) |
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sazeduzzaman-Saju&show_icons=true&theme=dark&hide_border=false) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sazeduzzaman-Saju&show_icons=true&theme=dark&hide_border=false) |
 
 | Top Languages | Trophy |
 | --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Najmul-Hasan-Sobuj&theme=dark&layout=compact) | ![Trophy](https://github-profile-trophy.vercel.app/?username=Najmul-Hasan-Sobuj&theme=radical&no-frame=false&no-bg=false&margin-w=4) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sazeduzzaman-Saju&theme=dark&layout=compact) | ![Trophy](https://github-profile-trophy.vercel.app/?username=Sazeduzzaman-Saju&theme=radical&no-frame=false&no-bg=false&margin-w=4) |
 
 <div align="center">
   <a href="https://www.linkedin.com/in/md-najmul-hasan-/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -60,4 +60,4 @@
 
 | Top Contributed Repo | Random Dev Meme |
 | --- | --- |
-| ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&limit=5&theme=dark&combine_all_yearly_contributions=true) | <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> |
+| ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Sazeduzzaman-Saju&limit=5&theme=dark&combine_all_yearly_contributions=true) | <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> |
