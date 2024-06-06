@@ -34,6 +34,10 @@
 <img src="https://i.ibb.co/9cxHYLb/next-removebg-preview.png" width="60px" alt="next">
 <img src="https://i.ibb.co/0QpvwqD/node-removebg-preview.png" width="60px" alt="node">
 <img src="https://i.ibb.co/S38w1Ft/mongo-removebg-preview.png" width="60px" alt="mongo">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60px" alt="mongo">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60px" alt="mongo">
+
+
 
 </div>
 
