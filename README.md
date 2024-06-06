@@ -43,19 +43,21 @@
 
 </div>
 
-<br >
-###
+| Github Stats | Streak |
+| --- | --- |
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&show_icons=true&theme=dark&hide_border=false) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Najmul-Hasan-Sobuj&show_icons=true&theme=dark&hide_border=false) |
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
+| Top Languages | Trophy |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Najmul-Hasan-Sobuj&theme=dark&layout=compact) | ![Trophy](https://github-profile-trophy.vercel.app/?username=Najmul-Hasan-Sobuj&theme=radical&no-frame=false&no-bg=false&margin-w=4) |
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sazeduzzaman-Saju&show_icons=true&theme=dark&hide_border=false" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sazeduzzaman-Saju&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="130" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sazeduzzaman-Saju&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://www.linkedin.com/in/md-najmul-hasan-/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/channel/UCpfBaZLeBB-RCNkIO8x7hDQ" target="_blank"><img src="https://img.shields.io/badge/youtube-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube"></a>
+  <a href="https://www.facebook.com/mdnajmulhasan.sobuj" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="http://najmulhasan.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=orange" alt="Portfolio"></a>
 </div>
 
-###
+| Top Contributed Repo | Random Dev Meme |
+| --- | --- |
+| ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Najmul-Hasan-Sobuj&limit=5&theme=dark&combine_all_yearly_contributions=true) | <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> |
