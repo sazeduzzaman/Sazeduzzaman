@@ -13,7 +13,7 @@
 ![followers](https://img.shields.io/github/followers/Sazeduzzam-Saju.svg)
 <img src="https://visitcount.itsvg.in/api?id=Sazeduzzam-Saju&icon=1&color=0" width="100" height="20">
 
-<img align="right" width="40%" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+<img align="right" width="40%" alt="Github Image" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952d7cbe6apu1vg443t7v5yx4tm1cgxibmzagq6sllx&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Next JS** and **REDUX**
 - 👯 I’m looking to collaborate on **Frontend projects** and **MERN Stack Project**
