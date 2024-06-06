@@ -59,4 +59,4 @@
 
 | Top Contributed Repo | Random Dev Meme |
 | --- | --- |
-| ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Sazeduzzaman-Saju&limit=5&theme=dark&combine_all_yearly_contributions=true) | <img src='http://http://dev-memer.info/' title="Meme" alt="Please refresh the page if the meme doesn't show up." style="height: 400px;"> |
+| ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Sazeduzzaman-Saju&limit=5&theme=dark&combine_all_yearly_contributions=true) | 
