@@ -1,4 +1,5 @@
 <img src="https://i.ibb.co/YDmLWHz/intro.gif">
+<img src="https://visitcount.itsvg.in/api?id=Sazeduzzam-Saju&icon=1&color=0" width="100" height="20">
 
 <h1 align="center"> Hey I'm Sazeduzzaman Saju <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="30"> ! </h1>
 
