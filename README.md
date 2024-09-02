@@ -1,4 +1,4 @@
-![Alt Text](https://i.ibb.co/2s2RHgg/Sazeduzzam-Saju-3.gif)
+![banner](https://i.ibb.co/2s2RHgg/Sazeduzzam-Saju-3.gif)
 
 <h1 align="center"> Hey I'm Sazeduzzaman Saju <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="30"> ! </h1>
 
