@@ -1,6 +1,6 @@
-![Alt Text](https://i.ibb.co/YDmLWHz/intro.gif)
+<img src="[https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif](https://i.ibb.co/YDmLWHz/intro.gif)">
 
-<h1 align="center"> আসসালামু আলাইকুম, I'm Sazeduzzaman Saju <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="30"> ! </h1>
+<h1 align="center"> Hey I'm Sazeduzzaman Saju <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="30"> ! </h1>
 
 <div style="text-align: center;">
   <h3 style="color: #007bff;">Skilled Frontend Developer with Expertise in MEARN Stack, located in Bangladesh. ❤</h3>
