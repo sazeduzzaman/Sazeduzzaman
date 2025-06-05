@@ -1,10 +1,42 @@
 <!-- HEADER -->
-<div align="center">
-  <h1>👋 Hello, I'm <b>Sazeduzzaman Saju</b></h1>
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Gif" width="200"/>
-  <p><i>Web Developer | MERN Stack Enthusiast | React Specialist</i></p>
-  <p>📍 Dhaka, Bangladesh</p>
+<div align="center" style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 40px 20px; border-radius: 20px; box-shadow: 0 8px 30px rgba(118, 75, 162, 0.5); color: #fff; max-width: 700px; margin: auto;">
+
+  <!-- Profile Image -->
+  <img src="https://avatars.githubusercontent.com/u/59728993?v=4" alt="Sazeduzzaman Saju" width="130" height="130" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 15px rgba(0,0,0,0.3); margin-bottom: 20px;" />
+
+  <!-- Greeting -->
+  <h1 style="font-size: 2.8em; margin: 0 0 10px; font-weight: 900; text-shadow: 1px 1px 5px rgba(0,0,0,0.3);">
+    👋 Hello, I'm <span style="color: #f6d365;">Sazeduzzaman Saju</span>
+  </h1>
+
+  <!-- Animated Wave SVG -->
+  <svg style="width: 30px; height: 30px; vertical-align: middle; margin-left: 5px;" viewBox="0 0 24 24" fill="none" stroke="#f6d365" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-wave">
+    <path d="M2 12h3l3 8 4-16 3 8h3"></path>
+  </svg>
+
+  <!-- Subtitle with underline animation -->
+  <p style="font-size: 1.2em; font-style: italic; margin-top: 10px; margin-bottom: 5px; position: relative; display: inline-block; color: #ffeaa7;">
+    Web Developer | MERN Stack Enthusiast | React Specialist
+    <span style="position: absolute; bottom: 0; left: 0; height: 2px; width: 100%; background: #ffeaa7; animation: underlineMove 2.5s linear infinite;"></span>
+  </p>
+
+  <!-- Location -->
+  <p style="font-size: 1em; margin-top: 0; opacity: 0.8;">
+    📍 Dhaka, Bangladesh
+  </p>
+
+  <!-- Coding GIF -->
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Gif" width="180" style="margin-top: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+
 </div>
+
+<style>
+  @keyframes underlineMove {
+    0% { transform: translateX(-100%); opacity: 0; }
+    50% { transform: translateX(0); opacity: 1; }
+    100% { transform: translateX(100%); opacity: 0; }
+  }
+</style>
 
 ---
 
