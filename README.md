@@ -1,62 +1,76 @@
-![banner](https://i.ibb.co.com/n3Tst0F/Sazeduzzam-Saju.gif)
+## 👋 Hello World! I'm Sazeduzzaman Saju
 
-<h1 align="center"> Hey I'm Sazeduzzaman Saju <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="30"> ! </h1>
+![Wave](https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505)  
+**Web Developer | MERN Stack Enthusiast | React Specialist**  
+📍 Dhaka, Bangladesh
 
-<div style="text-align: center;">
-  <h3 style="color: #007bff;">Skilled Frontend Developer with Expertise in MEARN Stack, located in Bangladesh. ❤</h3>
-  <p style="font-size: 1.2em;">Hi there! I'm a passionate frontend developer expertise in MEARN Stack.With a knack for creating intuitive user interfaces, I thrive on turning ideas into visually stunning and functional web applications. I'm dedicated to staying updated with the latest trends and technologies to deliver top-notch digital experiences. Let's collaborate and bring your projects to life!</p>
-</div>
+---
 
-![age](https://img.shields.io/badge/age-24-green)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Dhaka-3c9)
-![followers](https://img.shields.io/github/followers/Sazeduzzam-Saju.svg)
-<img src="https://visitcount.itsvg.in/api?id=Sazeduzzam-Saju&icon=1&color=0" width="100" height="20">
+### 💼 About Me
 
-<img align="right" width="20%" alt="Github Image" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952d7cbe6apu1vg443t7v5yx4tm1cgxibmzagq6sllx&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+I'm a passionate web developer with a strong foundation in the MERN stack. My expertise lies in building dynamic and responsive web applications. I have a deep understanding of the entire web development lifecycle, with a particular focus on React and frontend development.
 
-- 🌱 I’m currently learning **Next JS** and **REDUX**
-- 👯 I’m looking to collaborate on **Frontend projects** and **MERN Stack Project**
-- 📀 Never let your brain stop, always keep it running
-  <br />
+- 🔭 Currently working at **NGen It**
+- 🌱 Actively learning and exploring new technologies
+- 🎯 Aiming to contribute to impactful projects and continuously grow as a developer
+- ⚡ Fun fact: I thrive on solving complex problems and turning ideas into reality
 
-## 👨‍💻 Languages and Tools
+---
 
-<div align="center">
-  
-<img src="https://i.ibb.co/2PCtzhh/html-removebg-preview.png" width="60px" alt="html">
-<img src="https://i.ibb.co/KV2BqrC/css-removebg-preview.png" width="60px" alt="css">
-<img src="https://i.ibb.co/LCYDTKk/bootstrap-removebg-preview.png" width="60px" alt="bootstrap">
-<img src="https://i.ibb.co/dmWwY3Z/tailwind-removebg-preview.png" width="60px" alt="tailwind">
-<img src="https://i.ibb.co/FBG1twJ/js-removebg-preview.png" width="60px" alt="js">
-<img src="https://i.ibb.co/f84QXW9/react-removebg-preview.png" width="60px" alt="react">
-<img src="https://i.ibb.co/Y3BNFnd/redux-removebg-preview.png" width="60px" alt="redux">
-<img src="https://i.ibb.co/9cxHYLb/next-removebg-preview.png" width="60px" alt="next">
-<img src="https://i.ibb.co/0QpvwqD/node-removebg-preview.png" width="60px" alt="node">
-<img src="https://i.ibb.co/S38w1Ft/mongo-removebg-preview.png" width="60px" alt="mongo">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60px" alt="mongo">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60px" alt="mongo">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60px" alt="mongo">
+### 🛠️ Tech Stack
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+---
 
+### 📌 Pinned Projects
 
-</div>
+- [**HRL-Travels**](https://github.com/sazeduzzaman/HRL-Travels): A robust travel booking web application built with React and Redux on the frontend, Node.js for server-side logic, and MongoDB as the database. Seamlessly navigate through destinations and bookings.
 
-| Github Stats | Streak |
-| --- | --- |
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sazeduzzaman-Saju&show_icons=true&theme=dark&hide_border=false) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sazeduzzaman-Saju&show_icons=true&theme=dark&hide_border=false) |
+- [**dadavaai-frontend**](https://github.com/sazeduzzaman/dadavaai-frontend): A lightweight e-commerce solution built with Bootstrap, jQuery, and other technologies. This project offers a responsive and visually appealing user interface for seamless online shopping.
 
-| Top Languages | Trophy |
-| --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sazeduzzaman-Saju&theme=dark&layout=compact) | ![Trophy](https://github-profile-trophy.vercel.app/?username=Sazeduzzaman-Saju&theme=radical&no-frame=false&no-bg=false&margin-w=4) |
+- [**mytask**](https://github.com/sazeduzzaman/mytask): A task management application that enables users to create, edit, and manage their notes seamlessly. Similar to Google Keep, it allows users to type and dynamically change the status of tasks.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/szamansaju/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/iamsaju.99/" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://szamansaju-98e92.web.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=orange" alt="Portfolio"></a>
-</div>
+- [**TechFocus-FrontEnd**](https://github.com/sazeduzzaman/TechFocus-FrontEnd): Designed to highlight the technical focus of the organization. The website features information about their services, an overview of the team members, and a blog section where articles on technology are shared.
 
-| Top Contributed Repo | Random Dev Meme |
-| --- | --- |
-| ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Sazeduzzaman-Saju&limit=5&theme=dark&combine_all_yearly_contributions=true) | 
+---
+
+### 📊 GitHub Stats
+
+![Sazeduzzaman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sazeduzzaman&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazeduzzaman&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+
+- 🌍 Portfolio: [szamansaju-98e92.web.app](https://szamansaju-98e92.web.app)
+- 📫 Email: [sazeduzzaman@example.com](mailto:sazeduzzaman@example.com)
+- 💼 LinkedIn: [in/szamansaju](https://www.linkedin.com/in/szamansaju)
+- 🐦 Twitter: [@programmersaju](https://twitter.com/programmersaju)
+- 📘 Facebook: [iamsaju.99](https://www.facebook.com/iamsaju.99)
+- 💼 Fiverr: [sazeduzzamansaj](https://www.fiverr.com/sazeduzzamansaj)
+
+---
+
+### 📌 More Coming Soon
+
+- 📘 Writing tech blogs on real-world React challenges
+- 🎥 Launching a YouTube channel for MERN stack tutorials
+- 🔧 Building an open-source project for student developers
+
+---
+
+Thanks for visiting my profile! Feel free to connect and collaborate! 🚀
