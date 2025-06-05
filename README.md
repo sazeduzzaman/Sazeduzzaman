@@ -37,12 +37,23 @@ I'm a passionate web developer with expertise in the MERN stack, building scalab
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Trophy & Stats
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sazeduzzaman&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophy" width="300"/>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=sazeduzzaman&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazeduzzaman&layout=compact&theme=radical" alt="Top Languages" width="350"/>
 </div>
+
+---
+
+## &nbsp;📊 This Week I Spent My Time On:
+
+<!-- You can customize the below bars based on your activity -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sazeduzzaman&theme=radical" alt="WakaTime stats" />
+</p>
 
 ---
 
