@@ -54,7 +54,6 @@ I'm a passionate web developer with expertise in the MERN stack, building scalab
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sazeduzzaman&theme=radical" alt="WakaTime stats" />
 </p>
-
 ---
 
 ## 🔗 Connect with Me
