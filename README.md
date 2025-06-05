@@ -1,6 +1,8 @@
-## 👋 Hello World! I'm Sazeduzzaman Saju
+# 👋 Hello World! I'm Sazeduzzaman Saju
 
 ![Wave](https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505)  
+![Developer Working on Laptop](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
+
 **Web Developer | MERN Stack Enthusiast | React Specialist**  
 📍 Dhaka, Bangladesh
 
@@ -51,6 +53,12 @@ I'm a passionate web developer with a strong foundation in the MERN stack. My ex
 ![Sazeduzzaman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sazeduzzaman&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazeduzzaman&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sazeduzzaman&theme=tokyonight)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sazeduzzaman&theme=tokyonight&no-bg=true&no-frame=true)
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sazeduzzaman&theme=react-dark)
 
 ---
 
