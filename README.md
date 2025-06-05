@@ -1,21 +1,5 @@
 <!-- HEADER -->
-<div align="center" style="background-color: #1a1a1a; padding: 30px 20px; border-radius: 15px; max-width: 750px; margin: 20px auto; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);">
-
-  <img src="https://avatars.githubusercontent.com/u/59728993?v=4" alt="Sazeduzzaman Saju" width="120" height="120" style="border-radius: 50%; border: 3px solid #4F4F4F; margin-bottom: 20px;" />
-
-  <h1 style="font-size: 2.5em; margin: 0 0 8px; color: #e0e0e0; font-weight: 600;">
-    Hello, I'm <span style="color: #76D7C4;">Sazeduzzaman Saju</span> 👋
-  </h1>
-
-  <p style="font-size: 1.15em; color: #bdbdbd; margin-top: 0px; margin-bottom: 15px; line-height: 1.6;">
-    Web Developer | MERN Stack Enthusiast | React Specialist
-  </p>
-
-  <p style="font-size: 1em; color: #828282; margin-top: 0; opacity: 0.9;">
-    📍 Dhaka, Bangladesh
-  </p>
-
-  </div>
+<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
 
 ---
 
