@@ -1,42 +1,50 @@
 <!-- HEADER -->
-<div align="center" style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 40px 20px; border-radius: 20px; box-shadow: 0 8px 30px rgba(118, 75, 162, 0.5); color: #fff; max-width: 700px; margin: auto;">
+<!-- HEADER -->
+<div align="center" style="max-width: 700px; margin: auto; padding: 40px 20px; border-radius: 16px; background: #1f2937; color: #e0e7ff; box-shadow: 0 4px 30px rgba(99, 102, 241, 0.3); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
   <!-- Profile Image -->
-  <img src="https://avatars.githubusercontent.com/u/59728993?v=4" alt="Sazeduzzaman Saju" width="130" height="130" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 15px rgba(0,0,0,0.3); margin-bottom: 20px;" />
+  <img 
+    src="https://avatars.githubusercontent.com/u/59728993?v=4" 
+    alt="Sazeduzzaman Saju" 
+    width="140" height="140" 
+    style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" 
+  />
 
-  <!-- Greeting -->
-  <h1 style="font-size: 2.8em; margin: 0 0 10px; font-weight: 900; text-shadow: 1px 1px 5px rgba(0,0,0,0.3);">
-    👋 Hello, I'm <span style="color: #f6d365;">Sazeduzzaman Saju</span>
+  <!-- Name -->
+  <h1 style="margin: 20px 0 10px; font-weight: 900; font-size: 2.8rem; letter-spacing: -1px; color: #a5b4fc;">
+    Hi, I’m <span style="color: #6366f1;">Sazeduzzaman Saju</span>
   </h1>
 
-  <!-- Animated Wave SVG -->
-  <svg style="width: 30px; height: 30px; vertical-align: middle; margin-left: 5px;" viewBox="0 0 24 24" fill="none" stroke="#f6d365" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-wave">
-    <path d="M2 12h3l3 8 4-16 3 8h3"></path>
-  </svg>
-
-  <!-- Subtitle with underline animation -->
-  <p style="font-size: 1.2em; font-style: italic; margin-top: 10px; margin-bottom: 5px; position: relative; display: inline-block; color: #ffeaa7;">
-    Web Developer | MERN Stack Enthusiast | React Specialist
-    <span style="position: absolute; bottom: 0; left: 0; height: 2px; width: 100%; background: #ffeaa7; animation: underlineMove 2.5s linear infinite;"></span>
+  <!-- Description -->
+  <p style="font-size: 1.25rem; font-weight: 500; color: #c7d2fe; margin-bottom: 10px;">
+    👨‍💻 Web Developer | MERN Stack Enthusiast | React Specialist
   </p>
 
   <!-- Location -->
-  <p style="font-size: 1em; margin-top: 0; opacity: 0.8;">
+  <p style="color: #a5b4fc; font-size: 1rem; margin-top: 0; margin-bottom: 30px;">
     📍 Dhaka, Bangladesh
   </p>
 
+  <!-- Icons for Quick Info -->
+  <div style="display: flex; justify-content: center; gap: 40px; font-size: 1rem; color: #c7d2fe;">
+    <div title="Currently Working at NGen It" style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="22" alt="Work Icon" />
+      <span>Working at <b>NGen It</b></span>
+    </div>
+    <div title="Tech Stack" style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="22" alt="Tech Icon" />
+      <span>MERN Stack & React</span>
+    </div>
+    <div title="Contact Me" style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="22" alt="Email Icon" />
+      <span><a href="mailto:sazeduzzaman@example.com" style="color: #818cf8; text-decoration: none;">Email Me</a></span>
+    </div>
+  </div>
+
   <!-- Coding GIF -->
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Gif" width="180" style="margin-top: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Gif" width="180" style="margin-top: 40px; border-radius: 16px; box-shadow: 0 8px 30px rgba(99, 102, 241, 0.4);" />
 
 </div>
-
-<style>
-  @keyframes underlineMove {
-    0% { transform: translateX(-100%); opacity: 0; }
-    50% { transform: translateX(0); opacity: 1; }
-    100% { transform: translateX(100%); opacity: 0; }
-  }
-</style>
 
 ---
 
