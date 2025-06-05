@@ -1,50 +1,21 @@
 <!-- HEADER -->
-<!-- HEADER -->
-<div align="center" style="max-width: 700px; margin: auto; padding: 40px 20px; border-radius: 16px; background: #1f2937; color: #e0e7ff; box-shadow: 0 4px 30px rgba(99, 102, 241, 0.3); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<div align="center" style="background-color: #1a1a1a; padding: 30px 20px; border-radius: 15px; max-width: 750px; margin: 20px auto; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);">
 
-  <!-- Profile Image -->
-  <img 
-    src="https://avatars.githubusercontent.com/u/59728993?v=4" 
-    alt="Sazeduzzaman Saju" 
-    width="140" height="140" 
-    style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" 
-  />
+  <img src="https://avatars.githubusercontent.com/u/59728993?v=4" alt="Sazeduzzaman Saju" width="120" height="120" style="border-radius: 50%; border: 3px solid #4F4F4F; margin-bottom: 20px;" />
 
-  <!-- Name -->
-  <h1 style="margin: 20px 0 10px; font-weight: 900; font-size: 2.8rem; letter-spacing: -1px; color: #a5b4fc;">
-    Hi, I’m <span style="color: #6366f1;">Sazeduzzaman Saju</span>
+  <h1 style="font-size: 2.5em; margin: 0 0 8px; color: #e0e0e0; font-weight: 600;">
+    Hello, I'm <span style="color: #76D7C4;">Sazeduzzaman Saju</span> 👋
   </h1>
 
-  <!-- Description -->
-  <p style="font-size: 1.25rem; font-weight: 500; color: #c7d2fe; margin-bottom: 10px;">
-    👨‍💻 Web Developer | MERN Stack Enthusiast | React Specialist
+  <p style="font-size: 1.15em; color: #bdbdbd; margin-top: 0px; margin-bottom: 15px; line-height: 1.6;">
+    Web Developer | MERN Stack Enthusiast | React Specialist
   </p>
 
-  <!-- Location -->
-  <p style="color: #a5b4fc; font-size: 1rem; margin-top: 0; margin-bottom: 30px;">
+  <p style="font-size: 1em; color: #828282; margin-top: 0; opacity: 0.9;">
     📍 Dhaka, Bangladesh
   </p>
 
-  <!-- Icons for Quick Info -->
-  <div style="display: flex; justify-content: center; gap: 40px; font-size: 1rem; color: #c7d2fe;">
-    <div title="Currently Working at NGen It" style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="22" alt="Work Icon" />
-      <span>Working at <b>NGen It</b></span>
-    </div>
-    <div title="Tech Stack" style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="22" alt="Tech Icon" />
-      <span>MERN Stack & React</span>
-    </div>
-    <div title="Contact Me" style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="22" alt="Email Icon" />
-      <span><a href="mailto:sazeduzzaman@example.com" style="color: #818cf8; text-decoration: none;">Email Me</a></span>
-    </div>
   </div>
-
-  <!-- Coding GIF -->
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Gif" width="180" style="margin-top: 40px; border-radius: 16px; box-shadow: 0 8px 30px rgba(99, 102, 241, 0.4);" />
-
-</div>
 
 ---
 
