@@ -30,12 +30,12 @@ I'm a passionate web developer with expertise in the MERN stack, building scalab
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **HRL-Travels** | Travel booking web app with React, Redux, Node.js, MongoDB | [GitHub](https://github.com/sazeduzzaman/HRL-Travels) |
-| **dadavaai-frontend** | Lightweight e-commerce with Bootstrap and jQuery | [GitHub](https://github.com/sazeduzzaman/dadavaai-frontend) |
-| **mytask** | Task management app similar to Google Keep | [GitHub](https://github.com/sazeduzzaman/mytask) |
-| **TechFocus-FrontEnd** | Website showcasing services, team, and tech blogs | [GitHub](https://github.com/sazeduzzaman/TechFocus-FrontEnd) |
+| **ngen_portfolio** | Responsive personal portfolio built with React.js and Tailwind CSS | [GitHub](https://github.com/sazeduzzaman/ngen_portfolio) |
+| **bloodNeed** | Blood donation request platform using PHP and MySQL | [GitHub](https://github.com/sazeduzzaman/bloodNeed) |
+| **Juta Lagbe** | Shoe store e-commerce website with PHP, MySQL, and Bootstrap | [GitHub](https://github.com/khandkershahed/Juta-Lagbe) |
+| **atiya-portfolio** | Portfolio website for a musician, built with React and styled-components | [GitHub](https://github.com/sazeduzzaman/atiya-portfolio) |
+| **weekly_inqilab** | News portal for Weekly Inqilab with dynamic article management | [GitHub](https://github.com/sazeduzzaman/weekly_inqilab) |
 
----
 
 ## 🏆 GitHub Trophy & Stats
 
@@ -47,20 +47,11 @@ I'm a passionate web developer with expertise in the MERN stack, building scalab
 </div>
 
 ---
-
-## &nbsp;📊 This Week I Spent My Time On:
-
-<!-- You can customize the below bars based on your activity -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sazeduzzaman&theme=radical" alt="WakaTime stats" />
-</p>
----
-
 ## 🔗 Connect with Me
 
 <div align="center">
   <a href="https://szamansaju-98e92.web.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=orange"/></a>
-  <a href="mailto:sazeduzzaman@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:szamansaju@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/szamansaju" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/programmersaju" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://facebook.com/iamsaju.99" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
