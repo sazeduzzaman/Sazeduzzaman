@@ -32,13 +32,15 @@ I'm a passionate web developer with expertise in the MERN stack, building scalab
 
 ## 📌 Featured Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **ngen_portfolio** | Responsive personal portfolio built with React.js and Tailwind CSS | [GitHub](https://github.com/sazeduzzaman/ngen_portfolio) |
-| **bloodNeed** | Blood donation request platform using PHP and MySQL | [GitHub](https://github.com/sazeduzzaman/bloodNeed) |
-| **Juta Lagbe** | Shoe store e-commerce website with PHP, MySQL, and Bootstrap | [GitHub](https://github.com/khandkershahed/Juta-Lagbe) |
-| **atiya-portfolio** | Portfolio website for a musician, built with React and styled-components | [GitHub](https://github.com/sazeduzzaman/atiya-portfolio) |
-| **weekly_inqilab** | News portal for Weekly Inqilab with dynamic article management | [GitHub](https://github.com/sazeduzzaman/weekly_inqilab) |
+| Project | Description | GitHub | Live Site |
+|---------|-------------|--------|-----------|
+| **weekly_inqilab** | News portal for Weekly Inqilab with dynamic article management | [GitHub](https://github.com/sazeduzzaman/weekly_inqilab) | [weeklyinqilab.com](https://weeklyinqilab.com/) |
+| **ngen_portfolio** | Responsive personal portfolio built with React.js and Tailwind CSS | [GitHub](https://github.com/sazeduzzaman/ngen_portfolio) | [portfolio.ngengroup.org](https://portfolio.ngengroup.org/) |
+| **bloodNeed** | Blood donation request platform using PHP and MySQL | [GitHub](https://github.com/sazeduzzaman/bloodNeed) | [demo.digixsolve.com](https://demo.digixsolve.com/) |
+| **Juta Lagbe** | Shoe store e-commerce website with PHP, MySQL, and Bootstrap | [GitHub](https://github.com/khandkershahed/Juta-Lagbe) | [jutalagbe.com](https://jutalagbe.com/) |
+| **atiya-portfolio** | Portfolio website for a musician, built with React and styled-components | [GitHub](https://github.com/sazeduzzaman/atiya-portfolio) | [atiyaanisha.com](https://atiyaanisha.com/) |
+| **CodersHat** | A Modern IT Company and Agency Website | [GitHub](https://github.com/sazeduzzaman/CodersHat) | [coders-hat.vercel.app](https://coders-hat.vercel.app/) |
+| **LMS (Learning Management System)** | A Modern IT Company and Agency Website | [GitHub](https://sazeduzzaman.github.io/training/) | [ngenittraining.com](https://www.ngenittraining.com/) |
 
 
 ## 🏆 GitHub Trophy & Stats
