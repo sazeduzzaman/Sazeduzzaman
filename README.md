@@ -35,14 +35,14 @@ I'm a passionate web developer with expertise in the MERN stack, building scalab
 | Project | Description | GitHub | Live Site |
 |---------|-------------|--------|-----------|
 | **weekly_inqilab** | News portal for Weekly Inqilab with dynamic article management | [GitHub](https://github.com/sazeduzzaman/weekly_inqilab) | [weeklyinqilab.com](https://weeklyinqilab.com/) |
-| **ngen_portfolio** | Responsive personal portfolio | [GitHub](https://github.com/sazeduzzaman/ngen_portfolio) | [portfolio.ngengroup.org](https://portfolio.ngengroup.org/) |
-| **bloodNeed** | Blood donation request platform | [GitHub](https://github.com/sazeduzzaman/bloodNeed) | [demo.digixsolve.com](https://demo.digixsolve.com/) |
-| **Juta Lagbe** | Shoe store e-commerce website | [GitHub](https://github.com/khandkershahed/Juta-Lagbe) | [jutalagbe.com](https://jutalagbe.com/) |
-| **atiya-portfolio** | Portfolio website for a musician | [GitHub](https://github.com/sazeduzzaman/atiya-portfolio) | [atiyaanisha.com](https://atiyaanisha.com/) |
-| **CodersHat** | A Modern IT Company and Agency Website | [GitHub](https://github.com/sazeduzzaman/CodersHat) | [coders-hat.vercel.app](https://coders-hat.vercel.app/) |
-| **LMS** | A Modern Learning Management System Website | [GitHub](https://sazeduzzaman.github.io/training/) | [ngenittraining.com](https://www.ngenittraining.com/) |
-| **Discount Shop** | E-commerce web app for discounted products | [GitHub](https://github.com/sazeduzzaman/discountZshop) | [discountzshop.com](https://www.discountzshop.com/) |
-| **TechFocus** | Marketing & business landing website | [GitHub](https://github.com/sazeduzzaman/TechFocus-FrontEnd) | [techfocusltd.com](https://techfocusltd.com/) | 
+| **ngen_portfolio** | Responsive personal portfolio | [GitHub Repository](https://github.com/sazeduzzaman/ngen_portfolio) | [portfolio.ngengroup.org](https://portfolio.ngengroup.org/) |
+| **bloodNeed** | Blood donation request platform | [GitHub Repository](https://github.com/sazeduzzaman/bloodNeed) | [demo.digixsolve.com](https://demo.digixsolve.com/) |
+| **Juta Lagbe** | Shoe store e-commerce website | [GitHub Repository](https://github.com/khandkershahed/Juta-Lagbe) | [jutalagbe.com](https://jutalagbe.com/) |
+| **atiya-portfolio** | Portfolio website for a musician | [GitHub Repository](https://github.com/sazeduzzaman/atiya-portfolio) | [atiyaanisha.com](https://atiyaanisha.com/) |
+| **CodersHat** | A Modern IT Company and Agency Website | [GitHub Repository](https://github.com/sazeduzzaman/CodersHat) | [coders-hat.vercel.app](https://coders-hat.vercel.app/) |
+| **LMS** | A Modern Learning Management System Website | [GitHub Repository](https://sazeduzzaman.github.io/training/) | [ngenittraining.com](https://www.ngenittraining.com/) |
+| **Discount Shop** | E-commerce web app for discounted products | [GitHub Repository](https://github.com/sazeduzzaman/discountZshop) | [discountzshop.com](https://www.discountzshop.com/) |
+| **TechFocus** | Marketing & business landing website | [GitHub Repository](https://github.com/sazeduzzaman/TechFocus-FrontEnd) | [techfocusltd.com](https://techfocusltd.com/) | 
 
 
 
