@@ -3,7 +3,7 @@
 
 ---
 
-## 💼 About Me
+## 💻👦 About Me
 
 I'm a passionate web developer with expertise in the MERN stack, building scalable and responsive applications. I thrive on solving complex problems and turning ideas into reality.
 
