@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img src="https://github.com/sazeduzzaman/Sazeduzzaman/blob/main/saju'sBanner.png" alt="Mokkapps GitHub README header image">
+<img src="https://github.com/sazeduzzaman/Sazeduzzaman/blob/main/saju'sBanner.mp4" alt="Mokkapps GitHub README header image">
 
 ---
 
