@@ -73,8 +73,8 @@ I’m a passionate web developer specializing in frontend development with PHP, 
 
 ## 🚀 What's Next?
 - 📝 Writing tech blogs on PHP frameworks like Laravel and CodeIgniter, plus frontend challenges with React and Next.js
-- 🎥 Starting a YouTube channel focused on PHP full-stack development and modern frontend tutorials
-- 🔧 Developing open-source projects to help developers master PHP backend and React-based frontend skills
+- 🎥 Starting a YouTube channel focused on frontend tutorials
+- 🔧 Developing open-source projects to help developers master PHP and React-based frontend skills
 
 ---
 
