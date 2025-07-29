@@ -5,7 +5,7 @@
 
 ## 💻👦 About Me
 
-I’m a passionate web developer specializing in frontend development with PHP, Laravel, CodeIgniter, React, and Next.js. I build scalable, responsive applications and thrive on solving complex problems to turn ideas into reality.
+I’m a passionate web developer specializing in frontend development with React, and Next.js also basic full stack with MERN & MENN, PHP, Laravel. I build scalable, responsive applications and thrive on solving complex problems to turn ideas into reality.
 
 - 🔭 Currently working at **NGen It**
 - 🌱 Constantly learning new technologies & tools
