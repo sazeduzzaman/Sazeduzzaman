@@ -35,15 +35,17 @@ I’m a passionate web developer specializing in frontend development with React
 
 | Project | Description | GitHub | Live Site |
 |---------|-------------|--------|-----------|
+| **weekly_inqilab** | News portal for  dynamic article management | [GitHubRepo](https://github.com/sazeduzzaman/weekly_inqilab) | [weeklyinqilab.com](https://weeklyinqilab.com/) |
+| **Juta Lagbe** | Shoe store e-commerce website | [GitHubRepo](https://github.com/khandkershahed/Juta-Lagbe) | [jutalagbe.com](https://jutalagbe.com/) |
+| **Ardhanggini** | Bag store e-commerce website | [GitHubRepo](https://github.com/khandkershahed/ardhanggini) | [ardhanggini.com](https://www.ardhanggini.com/) |
 | **ngen_portfolio** | Corporate Company portfolio | [GitHubRepo](https://github.com/sazeduzzaman/ngen_portfolio) | [portfolio.ngengroup.org](https://portfolio.ngengroup.org/) |
 | **bloodNeed** | Blood doner&receiver request platform | [GitHubRepo](https://github.com/sazeduzzaman/bloodNeed) | [demo.digixsolve.com](https://demo.digixsolve.com/) |
-| **Juta Lagbe** | Shoe store e-commerce website | [GitHubRepo](https://github.com/khandkershahed/Juta-Lagbe) | [jutalagbe.com](https://jutalagbe.com/) |
 | **atiya-portfolio** | Personal Portfolio website for a musician | [GitHubRepo](https://github.com/sazeduzzaman/atiya-portfolio) | [atiyaanisha.com](https://atiyaanisha.com/) |
 | **CodersHat** | A Modern IT Company and Agency Website | [GitHubRepo](https://github.com/sazeduzzaman/CodersHat) | [coders-hat.vercel.app](https://coders-hat.vercel.app/) |
 | **LMS** | A Modern Learning Management System Website | [GitHubRepo](https://sazeduzzaman.github.io/training/) | [ngenittraining.com](https://www.ngenittraining.com/) |
 | **Discount Shop** | Offer based website Based On BD | [GitHubRepo](https://github.com/sazeduzzaman/discountZshop) | [discountzshop.com](https://www.discountzshop.com/) |
 | **TechFocus** | Website for Marketing, Business, and Selling Software & Hardware Website | [GitHubRepo](https://github.com/sazeduzzaman/TechFocus-FrontEnd) | [techfocusltd.com](https://techfocusltd.com/) | 
-| **weekly_inqilab** | News portal for  dynamic article management | [GitHubRepo](https://github.com/sazeduzzaman/weekly_inqilab) | [weeklyinqilab.com](https://weeklyinqilab.com/) |
+
 
 
 
